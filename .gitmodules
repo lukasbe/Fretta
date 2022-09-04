@@ -1,6 +1,6 @@
 [submodule "Fretta-Web"]
 	path = fretta-web
 	url = git@github.com:lukasbe/Fretta-Web.git
-[submodule "Fretta-Markdown-Parser"]
-	path = Fretta-Markdown-Parser
-	url = git@github.com:lukasbe/Fretta-Markdown-Parser.git
+[submodule "fretta-markdown-parser"]
+	path = fretta-markdown-parser
+	url = git@github.com:lukasbe/fretta-markdown-parser.git
